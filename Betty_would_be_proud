@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+/**
+ * main - Entry point
+ *
+ * Description: a simple program that prints "Betty would be proud of Unarine and Tente" to the standard output.
+ *
+ * Return: always 0 (success)
+ */
+int main(void)
+{
+    printf("Betty would be proud of Unarine and Tente\n");
+    return (0);
+}
